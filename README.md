@@ -1,4 +1,4 @@
-<h1>MoodMiner🎭</h1>
+<h1>SputnikMood🎭</h1>
 
 A basic, beginner-level **Sentiment Analysis** platform that classifies text into either 'Positive' or 'Negative'.<br><br>
 Dataset used to train model: https://www.kaggle.com/code/arbazkhan971/sentiment-analysis-for-beginner-93-accuracy/input .<br>
